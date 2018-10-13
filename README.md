@@ -10,3 +10,4 @@
 6. 配置自己的.env文件，修改数据库连接，网站名称等
 7. 到public/logo, public/qrcode下修改自己的即可
 
+项目演示网站： https://ainicheng.com
